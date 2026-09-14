@@ -1,0 +1,40 @@
+h1 {
+    font-size: 32px;
+    margin-left: 1%;
+}
+p {
+    font-size: 18px;
+    margin-left: 2%;
+}
+h2 {
+    font-size: 24px;
+    margin-left: 2%;
+    margin-top: 4%;
+}
+body {
+    margin: 2%;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    display: grid;
+    place-items: center start;
+}
+ul {
+    font-size: 18px;
+    
+    margin-left: 1%;
+}
+blockquote {
+    background-color: lightgray;
+    width: 50%;
+    border-radius: 20px;
+    padding: 1%;
+    font-size: 18px;
+}
+footer {
+    height: 50px;
+    width: 80%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 10%;
+    font-size:large;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
