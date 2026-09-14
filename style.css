@@ -4,7 +4,7 @@ h1 {
 }
 p {
     font-size: 18px;
-    margin-left: 2%;
+    margin-left: 3%;
 }
 h2 {
     font-size: 24px;
@@ -18,16 +18,15 @@ body {
     place-items: center start;
 }
 ul {
-    font-size: 18px;
-    
-    margin-left: 1%;
+   font-size: 18px;
+    margin-left: 2%;
 }
 blockquote {
     background-color: lightgray;
     width: 50%;
     border-radius: 20px;
     padding: 1%;
-    font-size: 18px;
+    font-size: 18px;;
 }
 footer {
     height: 50px;
@@ -37,4 +36,12 @@ footer {
     margin-top: 10%;
     font-size:large;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+img {
+    display: flex;
+    float: right;
+}
+.far {
+    margin-left: 7%;
+    width: 65%;
 }
