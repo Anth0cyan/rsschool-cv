@@ -7,7 +7,7 @@
     Phone:+375292165303
     Discord:anth0cyan
     Telegram:anth0cyan
-<br clear="right" />
+
 
 ## About me
 22 year old man, currently a Rolling Scopes School student. My goal is to become a web developer and to work on websites and projects associated with web development. 
