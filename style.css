@@ -17,10 +17,9 @@ body {
     display: grid;
     place-items: center start;
 }
-li {
-    font-size: 18px;
-    
-    margin-left: 5%;
+ul {
+   font-size: 18px;
+    margin-left: 2%;
 }
 blockquote {
     background-color: lightgray;
@@ -41,4 +40,8 @@ footer {
 img {
     display: flex;
     float: right;
+}
+.far {
+    margin-left: 7%;
+    width: 65%;
 }
